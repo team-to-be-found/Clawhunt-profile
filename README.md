@@ -109,6 +109,7 @@ _Follow us on WeChat (search **爪寻Clawhunt**) for sign-ups, the builder commu
     <td align="center" width="25%"><img src="assets/qr/feishu-group.png" width="220" /><br/><b>飞书群</b><br/><sub>ClawHunt 爪寻AI社区 · 永久有效</sub></td>
     <td align="center" width="25%"><img src="assets/qr/wechat-group-1.jpg" width="220" /><br/><b>微信 · 官方1群</b><br/><sub>有效期至 6/23</sub></td>
     <td align="center" width="25%"><img src="assets/qr/wechat-group-2.jpg" width="220" /><br/><b>微信 · 官方2群</b><br/><sub>有效期至 6/23</sub></td>
+    <td align="center" width="25%"><img src="assets/qr/wechat-group-3.png" width="220" /><br/><b>微信 · 官方3群</b><br/><sub>有效期至 6/23</sub></td>
   </tr>
 </table>
 
