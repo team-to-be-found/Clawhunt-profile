@@ -107,14 +107,14 @@ _Follow us on WeChat (search **爪寻Clawhunt**) for sign-ups, the builder commu
 <table>
   <tr>
     <td align="center" width="25%"><img src="assets/qr/feishu-group.png" width="220" /><br/><b>飞书群</b><br/><sub>ClawHunt 爪寻AI社区 · 永久有效</sub></td>
-    <td align="center" width="25%"><img src="assets/qr/wechat-group-1.jpg" width="220" /><br/><b>微信 · 官方1群</b><br/><sub>有效期至 6/23</sub></td>
-    <td align="center" width="25%"><img src="assets/qr/wechat-group-2.jpg" width="220" /><br/><b>微信 · 官方2群</b><br/><sub>有效期至 6/23</sub></td>
-    <td align="center" width="25%"><img src="assets/qr/wechat-group-3.png" width="220" /><br/><b>微信 · 官方3群</b><br/><sub>有效期至 6/23</sub></td>
+    <td align="center" width="25%"><img src="assets/qr/wechat-group-2.png" width="220" /><br/><b>微信 · 官方2群</b><br/><sub>二维码有效期至 2026/06/29</sub></td>
+    <td align="center" width="25%"><img src="assets/qr/wechat-group-3.png" width="220" /><br/><b>微信 · 官方3群</b><br/><sub>二维码有效期至 2026/06/29</sub></td>
+    <td align="center" width="25%"><img src="assets/qr/wechat-group-4.png" width="220" /><br/><b>微信 · 官方4群</b><br/><sub>二维码有效期至 2026/06/29</sub></td>
   </tr>
 </table>
 
-> ⚠️ 微信群二维码会定期更新（约每周）。**若已过期或显示「群人数已满」，请扫描上方公众号「爪寻Clawhunt」获取最新入群入口。**
-> _WeChat group QRs rotate periodically — if expired/full, scan the **爪寻Clawhunt** official account above for the latest invite._
+> ⚠️ 微信官方1群已满，当前开放 2 群、3 群、4 群。微信群二维码会定期更新（约每周），本轮二维码有效期至 2026/06/29。**若已过期或显示「群人数已满」，请扫描上方公众号「爪寻Clawhunt」获取最新入群入口。**
+> _Note: WeChat Official Group 1 is currently full. The active QR codes below are for Groups 2, 3, and 4, valid until 2026-06-29. WeChat group QRs rotate periodically; if a code expires or a group becomes full, scan the **爪寻Clawhunt** official account above for the latest invite._
 
 ---
 
