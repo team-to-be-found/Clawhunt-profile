@@ -127,3 +127,9 @@ _Follow us on WeChat (search **爪寻Clawhunt**) for sign-ups, the builder commu
 **[clawhunt.store](https://clawhunt.store)** · 微信搜一搜 **爪寻Clawhunt**
 
 </div>
+
+---
+
+## Versioning
+
+This repository uses SemVer in [`VERSION`](./VERSION) and keeps human-readable release notes in [`CHANGELOG.md`](./CHANGELOG.md).
